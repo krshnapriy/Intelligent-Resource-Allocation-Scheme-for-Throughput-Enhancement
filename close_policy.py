@@ -9,9 +9,9 @@ from render import Demo
 #####################  hyper parameters  ####################
 LOCATION = "KAIST"
 USER_NUM = 10
-EDGE_NUM = 10
+EDGE_NUM = 15
 LIMIT = 4
-LEARNING_MAX_EPISODE = 250
+LEARNING_MAX_EPISODE = 100
 MAX_EP_STEPS = 1000
 TXT_NUM = 92
 TEXT_RENDER = False
